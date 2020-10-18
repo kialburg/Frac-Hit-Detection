@@ -32,6 +32,8 @@ Since it is common for nearby wells to have halted or "shut in" production durin
 
 Time-dependent expected production characteristics need to be made for each producing well. For this project, the author chose a simple parameter-based model using '# of previous producing days' and '# of standard-deviations above mean' for Water volume and Water/Oil ratio to construct a trigger.
 
+![An example frac hit](https://github.com/kialburg/Frac-Hit-Detection/blob/main/frac%20hit%20plots/4.png)
+
 # Proposals for Improvement
 Changing offset geometry from point-to-point to calculate distances between well laterals
 Additional inputs for reservoir and well depth targeting
